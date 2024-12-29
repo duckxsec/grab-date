@@ -10,7 +10,7 @@ Performs date-based searches by page and quickly retrieves all associated domain
 > OS: Windows
 
 ### Usage
-- Download rev.exe from this repository or click [Here.](https://github.com/duckxsec/grab-date/raw/refs/heads/main/grab.exe)
+- Download grab.exe from this repository or click [Here.](https://github.com/duckxsec/grab-date/raw/refs/heads/main/grab.exe)
 - Run the executable
 
 _`Thanks.`_
