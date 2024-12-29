@@ -1,4 +1,4 @@
-#  Grabber by Date Time And Pages (v1.0)
+#  Grabber by Date Time And Pages 
 
 **Fast Grabbing, Good For Laravel or XLMRPC, Unlimited Page, and Good results**
 
